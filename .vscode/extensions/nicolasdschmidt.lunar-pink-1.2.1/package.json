@@ -1,0 +1,58 @@
+{
+	"name": "lunar-pink",
+	"displayName": "Lunar Pink Theme",
+	"description": "A vibrantly colored theme for VSCode",
+	"version": "1.2.1",
+	"publisher": "nicolasdschmidt",
+	"author": {
+		"name": "Nícolas D. Schmidt",
+		"email": "nicolasdschmidt@protonmail.com",
+		"url": "https://github.com/tronfy"
+	},
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"galleryBanner": {
+		"color": "#131313",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"lunar",
+		"pink",
+		"theme",
+		"dark"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lunar Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LunarPink.json"
+			},
+			{
+				"label": "Lunar Pink Satellite",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LunarPinkSatellite.json"
+			}
+		]
+	},
+	"homepage": "https://github.com/tronfy/lunar-pink",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tronfy/lunar-pink"
+	},
+	"__metadata": {
+		"id": "dffd7894-5799-424c-baa6-24ddde8a8938",
+		"publisherId": "a279e5fa-0ce8-4b71-a8ee-3aae08277dfc",
+		"publisherDisplayName": "Nícolas D. Schmidt",
+		"targetPlatform": "undefined",
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1656192386534
+	}
+}
