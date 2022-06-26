@@ -1,0 +1,12 @@
+2022/04/18-21:36:42.501 56c8 Reusing MANIFEST C:\Users\ester\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/04/18-21:36:42.509 56c8 Recovering log #7
+2022/04/18-21:36:42.579 56c8 Reusing old log C:\Users\ester\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/000007.log 
+2022/04/18-21:37:13.848 56c8 Level-0 table #11: started
+2022/04/18-21:37:13.857 56c8 Level-0 table #11: 50130 bytes OK
+2022/04/18-21:37:13.861 56c8 Delete type=0 #7
+2022/04/18-21:38:30.549 56c8 Level-0 table #13: started
+2022/04/18-21:38:30.565 56c8 Level-0 table #13: 379322 bytes OK
+2022/04/18-21:38:30.570 56c8 Delete type=0 #10
+2022/04/18-22:50:57.918 3e6c Level-0 table #15: started
+2022/04/18-22:50:57.928 3e6c Level-0 table #15: 17955 bytes OK
+2022/04/18-22:50:57.933 3e6c Delete type=0 #12

@@ -1,0 +1,15 @@
+2022/05/14-15:26:32.200 5780 Reusing MANIFEST C:\Users\ester\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/05/14-15:26:32.202 5780 Recovering log #14
+2022/05/14-15:26:32.205 5780 Reusing old log C:\Users\ester\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/000014.log 
+2022/05/14-15:30:38.514 5c94 Level-0 table #18: started
+2022/05/14-15:30:38.560 5c94 Level-0 table #18: 432372 bytes OK
+2022/05/14-15:30:38.564 5c94 Delete type=0 #14
+2022/05/14-15:30:38.567 5780 Compacting 4@0 + 1@1 files
+2022/05/14-15:30:38.584 5780 Generated table #19@0: 113 keys, 433086 bytes
+2022/05/14-15:30:38.584 5780 Compacted 4@0 + 1@1 files => 433086 bytes
+2022/05/14-15:30:38.585 5780 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/14-15:30:38.587 5780 Delete type=2 #8
+2022/05/14-15:30:38.587 5780 Delete type=2 #11
+2022/05/14-15:30:38.588 5780 Delete type=2 #13
+2022/05/14-15:30:38.589 5780 Delete type=2 #15
+2022/05/14-15:30:38.589 5780 Delete type=2 #18
